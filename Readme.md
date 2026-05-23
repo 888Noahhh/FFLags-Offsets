@@ -7,5 +7,5 @@ Free to use offsets API for fflags injector development.
 | | |
 |---|---|
 | **Version Base** | https://whatexpsare.online/ |
-| **Version** | `version-ec412128eba3476e` |
+| **Version** | `version-4b6315bf1f0a4dbb` |
 
